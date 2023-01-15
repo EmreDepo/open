@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hello World"
+
+wget https://enterprise.proxmox.com/debian/proxmox-release-bullseye.gpg -O /etc/apt/trusted.gpg.d/proxmox-release-bullseye.gpg
